@@ -1,6 +1,6 @@
 # Software Testing with Java - Examples Repository
 
-Willkommen im Repository für das Buch **"Softwaretesting kompakt: Grundlagen von Tests und Testautomatisierung mit Java (IT kompakt)"**! Dieses Repository enthält eine Sammlung von Beispielen, die im Buch behandelt werden. Die bereitgestellten Codebeispiele helfen dabei, die Konzepte des Softwaretestens praktisch zu verstehen und anzuwenden.
+Willkommen im Repository für das Buch **"Softwaretesting kompakt: Grundlagen von Tests und Testautomatisierung mit Java (IT kompakt)"** Dieses Repository enthält eine Sammlung von Beispielen, die im Buch behandelt werden. Die bereitgestellten Codebeispiele helfen dabei, die Konzepte des Softwaretestens praktisch zu verstehen und anzuwenden.
 
 ## 📚 Über das Buch
 
